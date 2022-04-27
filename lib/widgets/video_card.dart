@@ -36,6 +36,7 @@ class VideoCard extends StatelessWidget {
             ),
           ],
         ),
+        Row(),
       ],
     );
   }
